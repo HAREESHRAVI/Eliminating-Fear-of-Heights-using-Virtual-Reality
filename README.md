@@ -63,9 +63,12 @@ To clone this repository and import the project using Git and Unity Hub, follow 
 ## Opening the Project in Unity
 
 1. Open the Unity Editor once the cloning process is complete.
+   
 2. In Unity Hub, navigate to the "Projects" tab and select the cloned repository.
-3. Wait for Unity to import the project files.
-4. If prompted, follow any instructions to upgrade the project to match your Unity Editor's version.
+
+4. Wait for Unity to import the project files.
+   
+6. If prompted, follow any instructions to upgrade the project to match your Unity Editor's version.
 
 ---
 
@@ -80,8 +83,11 @@ Remember to commit and push your changes to this repository when you're done.
 ### Additional Notes:
 
 - Ensure you have the necessary Unity version installed for compatibility.
+  
 - Default version: Unity 2021.3.21f1
+  
 - Sometimes, Unity might prompt you to upgrade the project to a newer version if the Unity versions differ between your local machine and the project
+
 - Follow the prompts to upgrade the project if needed.
 
 ---
