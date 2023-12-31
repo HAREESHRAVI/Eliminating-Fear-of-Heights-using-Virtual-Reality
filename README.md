@@ -22,7 +22,7 @@ To clone this repository and import the project using Git and Unity Hub, follow 
 3. Execute the following command to clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/HAREESHRAVI/ELIMINATING-FEAR-OF-HEIGHTS-IN-VIRTUAL-REALITY
     ```
 
 4. Open Unity Hub and navigate to the "Projects" tab.
