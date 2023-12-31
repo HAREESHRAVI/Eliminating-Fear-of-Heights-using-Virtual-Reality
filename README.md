@@ -175,6 +175,5 @@ Remember to commit and push your changes to this repository when you're done.
 
 ---
 
-After importing the project drag and drop the environment folder into your scene window
-Following these steps should allow you to successfully import Unity projects from GitHub into your local Unity environment for development and collaboration.
+After importing the project drag and drop the environment folder into your scene window. Following these steps should allow you to successfully import Unity projects from GitHub into your local Unity environment for development and collaboration.
 
