@@ -1,7 +1,10 @@
 # ELIMINATING-FEAR-OF-HEIGHTS-IN-VIRTUAL-REALITY
 
+---
 
 ## ELIMINATING-FEAR-OF-HEIGHTS-IN-VIRTUAL-REALITY is a virtual reality project developed to eliminate fear of heights especially for workers working in higher grounds.In this virtual world you'll act as a construction worker working in a construction site where you need to perform simple tasks.
+
+---
 
 
 ## Cloning the Repository
@@ -64,12 +67,15 @@ To clone this repository and import the project using Git and Unity Hub, follow 
 3. Wait for Unity to import the project files.
 4. If prompted, follow any instructions to upgrade the project to match your Unity Editor's version.
 
+---
+
 
 ## Working with the Project
 
 Once the project is imported, you can start working on it within the Unity Editor.
 Remember to commit and push your changes to this repository when you're done.
 
+---
 
 ### Additional Notes:
 
@@ -77,6 +83,8 @@ Remember to commit and push your changes to this repository when you're done.
 - Default version: Unity 2021.3.21f1
 - Sometimes, Unity might prompt you to upgrade the project to a newer version if the Unity versions differ between your local machine and the project
 - Follow the prompts to upgrade the project if needed.
+
+---
 
 Following these steps should allow you to successfully import Unity projects from GitHub into your local Unity environment for development and collaboration.
 
